@@ -2,8 +2,8 @@
 Challenges from Hacker Rank I am taking :D
 
 ## Challenges and files:
-*[30 Days Of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) - [src/main/java/challenges/thitydaysofcode](src/main/java/challenges/thitydaysofcode)
-*[Domains - Java](https://www.hackerrank.com/domains/java) - [src/main/java/challenges/java](src/main/java/challenges/java)
+- [30 Days Of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) - [src/main/java/challenges/thitydaysofcode](src/main/java/challenges/thitydaysofcode)
+- [Domains - Java](https://www.hackerrank.com/domains/java) - [src/main/java/challenges/java](src/main/java/challenges/java)
 
 
 # Nome do projeto
