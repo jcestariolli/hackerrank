@@ -11,7 +11,7 @@ Challenges from Hacker Rank I am taking :D
     |   ├── challenges/             # package containing the implementation classes for challenges in progress or taken
     |   ├── interfaces/             # package for common interfaces used in project
     |   |   └──  Challenge.java     # interface that defines what a challenge class must implement  
-    |   └── Main.java               # Main class where objects that implements  can be instatiaded and executed
+    |   └── Main.java               # Main class where objects that implements interface Challenge.java can be instatiaded and executed
     ├── misc/                       # Directory to save a variety of useful information, used also as scratch
     ├── pom.xml                     # project configuration details (using maven)
     └── README.md
