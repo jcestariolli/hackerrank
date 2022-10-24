@@ -1,4 +1,4 @@
-package challenges.thitydaysofcode;
+package challenges.thirtydaysofcode;
 
 import interfaces.Challenge;
 

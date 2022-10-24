@@ -1,4 +1,4 @@
-import challenges.thitydaysofcode.Day10;
+import challenges.thirtydaysofcode.Day10;
 import interfaces.Challenge;
 
 import java.io.IOException;
