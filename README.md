@@ -2,7 +2,7 @@
 Challenges from Hacker Rank I am taking :D
 
 ## Challenges taken and related directories:
-- [30 Days Of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) - [src/main/java/challenges/thitydaysofcode](src/main/java/challenges/thirtydaysofcode)
+- [30 Days Of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) - [src/main/java/challenges/thirtydaysofcode](src/main/java/challenges/thirtydaysofcode)
 - [Domains - Java](https://www.hackerrank.com/domains/java) - [src/main/java/challenges/java](src/main/java/challenges/java)
 
 ## Project Structure
