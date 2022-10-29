@@ -12,7 +12,7 @@ public class Day9 implements Challenge {
 
         int n = Integer.parseInt(bufferedReader.readLine().trim());
 
-        int result = Result.factorial(n);
+        int result = ResultDay6.factorial(n);
 
         System.out.println(result);
         //bufferedWriter.write(String.valueOf(result));
@@ -24,7 +24,7 @@ public class Day9 implements Challenge {
     }
 }
 
-class Result {
+class ResultDay6 {
 
     /*
      * Complete the 'factorial' function below.
