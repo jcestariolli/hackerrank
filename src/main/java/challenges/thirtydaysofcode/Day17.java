@@ -15,7 +15,7 @@ public class Day17 implements Challenge {
 
             int n = in.nextInt();
             int p = in.nextInt();
-            Calculator myCalculator = new Calculator();
+            CalculatorDay17 myCalculator = new CalculatorDay17();
             try {
                 int ans = myCalculator.power(n, p);
                 System.out.println(ans);
@@ -28,7 +28,7 @@ public class Day17 implements Challenge {
     }
 }
 
-class Calculator {
+class CalculatorDay17 {
 
     public int power(int n, int p) throws Exception {
         if (n < 0 || p < 0) throw  new Exception("n and p should be non-negative");
